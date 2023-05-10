@@ -1,0 +1,10 @@
+{
+  "en": {
+    "menu_label": "Menu",
+    "button_labels": ["Get Views", "Get Followers", "Get Shares", "Get Likes", "Get Favorites"]
+  },
+  "th": {
+    "menu_label": "เมนู",
+    "button_labels": ["รับชม", "รับติดตาม", "รับแชร์", "รับไลค์", "รับโปรด"]
+  }
+}
