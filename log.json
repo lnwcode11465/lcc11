@@ -1,13 +1,13 @@
 {
     "users": [
         {
-            "username": "john",
+            "username": "sck",
             "password": "1234",
-            "expiry_date": "2023-04-20"
+            "expiry_date": "2023-05-31"
         },
         {
-            "username": "jane",
-            "password": "123456",
+            "username": "admin",
+            "password": "sck1234",
             "expiry_date": "2023-06-15"
         }
     ]
