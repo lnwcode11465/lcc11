@@ -9,6 +9,11 @@
             "username": "admin",
             "password": "sck1234",
             "expiry_date": "2023-06-15"
-        }
+        },
+        {
+            "username": "sck",
+            "password": "1234",
+            "expiry_date": "2023-04-15"
+        },
     ]
 }
